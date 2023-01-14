@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "EditorConfig.editorconfig", // use .editorconfig
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "shinnn.stylelint", //css module
+    "kumar-harsh.graphql-for-vscode" // graphql
+  ]
+}
